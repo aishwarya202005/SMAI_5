@@ -5,9 +5,7 @@ training strategy to handle large number of training data (Hint: Batch Size) arc
 • Tasks:<br>
 ◦ Play with your neural network to report the best performing architecture for the given task. Also, include the activation function, loss function used in the
 report.<br>
-◦ Contrast the effect of using different activation functions on the validation data. Use ReLU, Sigmoid & Tanh as activation functions in the hidden layers.
-
-<br>
+◦ Contrast the effect of using different activation functions on the validation data. Use ReLU, Sigmoid & Tanh as activation functions in the hidden layers.<br>
 ◦ Report how the number of layers affects the performances of the model. Plot number of layers vs prediction loss graph.<br>
 ◦ Show how error is dependent on the number of epochs with appropriate plots.<br>
 
